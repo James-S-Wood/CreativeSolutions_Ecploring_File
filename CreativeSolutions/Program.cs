@@ -16,6 +16,7 @@ namespace CreativeSolutions
             CreateHostBuilder(args).Build().Run();
             Console.WriteLine("Hello Creative Solutions");
             Console.WriteLine("This is so cool.");
+            Console.WriteLine("Looking forward to learning C# and the .Net Framework.");
         }   
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
